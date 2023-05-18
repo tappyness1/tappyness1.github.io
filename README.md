@@ -54,6 +54,8 @@ The two works I'm currently most proud of:
 
 ### Error Analysis for Computer Vision tasks
 
+![](images/error-analysis-cv.png)
+
 - In evaluating Object Detection and Image Segmentation models, there is a tendency to simply look at mean Average Precision with some Intersection over Union threshold. However, often that is not enough for the end user of your products. The main question is, is the model actually able to detect something?
 
 - Hence, I created a simple minimal tool for quick visualisation of the models you use.
